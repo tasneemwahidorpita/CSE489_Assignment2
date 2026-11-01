@@ -1,0 +1,72 @@
+﻿============================================================
+           AI USAGE DECLARATION
+============================================================
+
+
+Name: Tasneem Wahid Orpita
+Student ID: 23201542
+Assignment: 2
+Date: 19/10/26
+
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[✓] ChatGPT
+[ ] GitHub Copilot
+[✓] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[✓] Learning/understanding concepts
+[✓] Debugging my code
+[✓] Generating code snippets
+[ ] Writing text content
+[✓] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+
+
+I gave prompts to AI and AI generated the codes based on the assignment’s requirements. AI helped in building the logic, UI and debugging.
+
+
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+
+File: BroadcastReceiverFragment.kt        Section: _________________
+File: VideoFragment.kt                             Section: _________________
+File: ZoomableImageView.kt                    Section: _________________
+
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+
+Signature: Orpita
+Date: 1/11/26
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
