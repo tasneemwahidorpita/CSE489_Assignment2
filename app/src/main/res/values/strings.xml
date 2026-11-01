@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Media Portal</string>
+
+    <!-- Navigation Drawer Menu Titles -->
+    <string name="menu_home">Home</string>
+    <string name="menu_broadcast_receiver">Broadcast Receiver</string>
+    <string name="menu_image_scale">Image Scale</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_audio">Audio</string>
+
+    <!-- Activity Titles -->
+    <string name="title_home">Home Dashboard</string>
+    <string name="title_broadcast_receiver">Broadcast Receiver (Activity 1)</string>
+    <string name="title_broadcast_activity2">Broadcast Receiver (Activity 2)</string>
+    <string name="title_broadcast_activity3">Broadcast Receiver (Activity 3)</string>
+    <string name="title_image_scale">Image Scale</string>
+    <string name="title_video">Video Player</string>
+    <string name="title_audio">Audio Player</string>
+
+    <!-- Broadcast Section Strings -->
+    <string name="select_broadcast_type">Select Broadcast Operation:</string>
+    <string name="option_custom_broadcast">1. Custom Broadcast Receiver</string>
+    <string name="option_battery_receiver">2. System Battery Notification Receiver</string>
+    <string name="btn_proceed">Proceed to Activity 2</string>
+    <string name="btn_proceed_act3">Proceed to Activity 3</string>
+    <string name="btn_send_broadcast">Send Custom Broadcast</string>
+    <string name="hint_enter_message">Enter plain text message</string>
+    <string name="error_empty_message">Please enter a message before continuing.</string>
+    <string name="battery_level_label">Current System Battery Level:</string>
+    <string name="battery_no_act3">System Battery Notification Receiver was processed in Activity 2.\n\nNo custom broadcast message operation is required in Activity 3.</string>
+</resources>

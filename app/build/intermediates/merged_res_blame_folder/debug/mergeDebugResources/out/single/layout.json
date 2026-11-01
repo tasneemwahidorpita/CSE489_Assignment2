@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\fragment_home.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\fragment_broadcast_receiver.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\fragment_broadcast_receiver.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\fragment_audio.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\fragment_audio.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\activity_broadcast_2.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\activity_broadcast_2.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\fragment_video.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "com.example.mediaportal.app-mergeDebugResources-38:/layout/fragment_video.xml",
+        "source": "com.example.mediaportal.app-main-41:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\fragment_image_scale.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\fragment_image_scale.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\activity_broadcast_3.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\activity_broadcast_3.xml"
+    },
+    {
+        "merged": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-mergeDebugResources-38:\\layout\\nav_header.xml",
+        "source": "D:\\Android\\Gradle\\daemon\\8.7\\com.example.mediaportal.app-main-41:\\layout\\nav_header.xml"
+    }
+]
